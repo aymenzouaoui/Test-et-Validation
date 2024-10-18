@@ -1,0 +1,11 @@
+# Ignore les répertoires et fichiers générés par npm/node.js
+node_modules/
+npm-debug.log
+
+# Ignore les fichiers de configuration
+.env
+# Ignore le dossier controller
+public/
+
+# Ignore les fichiers de documentation
+*.md
